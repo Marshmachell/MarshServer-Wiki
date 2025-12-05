@@ -13,8 +13,8 @@
   </thead>
   <tbody>
     <tr>
-      <td><img src="/.gitbook/assets/cowboy_hat_item_preview.png"></img></td>
-      <td>[Изображение ковбойской шляпы]</td>
+      <td>Cowboy Hat</td>
+      <td><img src="/.gitbook/assets/cowboy_hat_item_preview.png" width="100"></img></td>
       <td>(скрин из бб)</td>
       <td>[Изображение рецепта крафта]</td>
       <td>Ковбойская шляпа для западного стиля</td>
