@@ -7,8 +7,8 @@
       <th width="100">Item Preview</th>
       <th width="128">Model Preview</th>
       <th width="128">Craft Recipe</th>
-      <th width="136">Description</th>
-      <th width="122" data-type="checkbox">Is Dyeable?</th>
+      <th width="160">Description</th>
+      <th width="70" data-type="checkbox">Is Dyeable?</th>
     </tr>
   </thead>
   <tbody>
