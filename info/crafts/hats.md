@@ -14,7 +14,7 @@
   <tbody>
     <tr>
       <td>Cowboy Hat</td>
-      <td><img src="/.gitbook/assets/crafts/hats/cowboy_hat_item_preview.png" width="100%"></img></td>
+      <td><img src="/.gitbook/assets/crafts/hats/cowboy_hat_item_preview.png" width="90%"></img></td>
       <td>(скрин из бб)</td>
       <td>[Изображение рецепта крафта]</td>
       <td>Ковбойская шляпа для западного стиля</td>
