@@ -12,4 +12,10 @@
 
 ## Gameplay
 
-* [Page 1](gameplay/page-1.md)
+* [Phantoms](gameplay/page-1.md)
+* [Happy Ghasts](gameplay/happy-ghasts.md)
+* [Minecarts](gameplay/minecarts.md)
+
+## Updates
+
+* [27.12.2025](updates/27.12.2025.md)
