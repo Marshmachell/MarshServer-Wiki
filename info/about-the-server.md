@@ -13,7 +13,7 @@ icon: circle-info
 
 ***
 
-###
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p><em>Drawn by Falanta*</em></p></figcaption></figure>
 
 ***
 

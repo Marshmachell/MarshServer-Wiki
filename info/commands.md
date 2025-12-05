@@ -11,7 +11,7 @@ icon: window
 
 ***
 
-#### Action Commands
+#### Misc Commands
 
 | Aliases | Action                    |
 | ------- | ------------------------- |
