@@ -34,5 +34,12 @@
       <td><img src="../../.gitbook/assets/crafts/hats/straw_hat_item_recipe.png" alt=""></td>
       <td>false</td>
     </tr>
+    <tr>
+      <td>Top Hat</td>
+      <td><img src="../../.gitbook/assets/crafts/hats/top_hat_item_preview.png" alt=""></td>
+      <td align="center">-</td>
+      <td><img src="../../.gitbook/assets/crafts/hats/top_hat_recipe.png" alt=""></td>
+      <td>true</td>
+    </tr>
   </tbody>
 </table>
