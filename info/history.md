@@ -19,9 +19,9 @@ The history of the server began with a random game with random players along wit
 
 During the first time of the zero season, the world was hosted on my home computer, which was inconvenient for both me and the players. 20.07.2025 hosting was purchased and the world was transferred to a server in Germany.
 
-#### Whitelist (9):
+#### Whitelist (10):
 
-<mark style="color:$primary;">Marshmachell, LazyLX, Falanta, zeinoxl, DasDiamond58, bth123, Pizdaeb4324, TwKraystall, Lays\_Pr1nglesss</mark>
+<mark style="color:$primary;">Marshmachell, LazyLX, Falanta, zeinoxl, DasDiamond58, bth123, Pizdaeb4324, TwKraystall, Lays\_Pr1nglesss, Hendry69</mark>
 
 ### Screenshots
 
