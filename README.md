@@ -32,3 +32,15 @@ All useful pages.
 {% content-ref url="info/about-the-server.md" %}
 [about-the-server.md](info/about-the-server.md)
 {% endcontent-ref %}
+
+{% content-ref url="info/commands.md" %}
+[commands.md](info/commands.md)
+{% endcontent-ref %}
+
+{% content-ref url="info/crafts/" %}
+[crafts](info/crafts/)
+{% endcontent-ref %}
+
+{% content-ref url="info/history.md" %}
+[history.md](info/history.md)
+{% endcontent-ref %}
