@@ -16,35 +16,35 @@
     <tr>
       <td>Cowboy Hat</td>
       <td><img src="../../.gitbook/assets/crafts/hats/cowboy_hat_item_preview.png" alt=""></td>
-      <td align="center">-</td>
+      <td align="center"><img src="../../.gitbook/assets/crafts/hats/cowboy_hat_model_preview.png" alt=""></img></td>
       <td><img src="../../.gitbook/assets/crafts/hats/cowboy_hat_recipe.png" alt=""></td>
       <td>true</td>
     </tr>
     <tr>
       <td>Fisherman Hat</td>
       <td><img src="../../.gitbook/assets/crafts/hats/fisherman_hat_item_preview.png" alt=""></td>
-      <td align="center">-</td>
+      <td align="center"><img src="../../.gitbook/assets/crafts/hats/fisherman_hat_model_preview.png" alt=""></img></td>
       <td><img src="../../.gitbook/assets/crafts/hats/fisherman_hat_recipe.gif" alt=""></td>
       <td>false</td>
     </tr>
     <tr>
       <td>Straw Hat</td>
       <td><img src="../../.gitbook/assets/crafts/hats/straw_hat_item_preview.png" alt=""></td>
-      <td align="center">-</td>
+      <td align="center"><img src="../../.gitbook/assets/crafts/hats/straw_hat_model_preview.png" alt=""></img></td>
       <td><img src="../../.gitbook/assets/crafts/hats/straw_hat_item_recipe.png" alt=""></td>
       <td>false</td>
     </tr>
     <tr>
       <td>Top Hat</td>
       <td><img src="../../.gitbook/assets/crafts/hats/top_hat_item_preview.png" alt=""></td>
-      <td align="center">-</td>
+      <td align="center"><img src="../../.gitbook/assets/crafts/hats/top_hat_model_preview.png" alt=""></img></td>
       <td><img src="../../.gitbook/assets/crafts/hats/top_hat_recipe.png" alt=""></td>
       <td>true</td>
     </tr>
     <tr>
       <td>Umbrella Hat</td>
       <td><img src="../../.gitbook/assets/crafts/hats/umbrella_hat_item_preview.png" alt=""></td>
-      <td align="center"><img src="../../.gitbook/assets/crafts/hats/umbrella_hat_model_preview.png"></td>
+      <td align="center"><img src="../../.gitbook/assets/crafts/hats/umbrella_hat_model_preview.png" alt=""></img></td>
       <td><img src="../../.gitbook/assets/crafts/hats/umbrella_hat_recipe.png" alt=""></td>
       <td>false</td>
     </tr>
