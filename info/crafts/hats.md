@@ -44,7 +44,7 @@
     <tr>
       <td>Umbrella Hat</td>
       <td><img src="../../.gitbook/assets/crafts/hats/umbrella_hat_item_preview.png" alt=""></td>
-      <td align="center">-</td>
+      <td align="center"><img src="../../.gitbook/assets/crafts/hats/umbrella_hat_model_preview.png"></td>
       <td><img src="../../.gitbook/assets/crafts/hats/umbrella_hat_recipe.png" alt=""></td>
       <td>false</td>
     </tr>
