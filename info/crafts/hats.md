@@ -41,5 +41,12 @@
       <td><img src="../../.gitbook/assets/crafts/hats/top_hat_recipe.png" alt=""></td>
       <td>true</td>
     </tr>
+    <tr>
+      <td>Umbrella Hat</td>
+      <td><img src="../../.gitbook/assets/crafts/hats/umbrella_hat_item_preview.png" alt=""></td>
+      <td align="center">-</td>
+      <td><img src="../../.gitbook/assets/crafts/hats/umbrella_hat_recipe.png" alt=""></td>
+      <td>false</td>
+    </tr>
   </tbody>
 </table>
