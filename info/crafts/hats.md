@@ -9,7 +9,7 @@ description: Also on the server there are several crafts of unique hats
     <tr>
       <th width="125">Name</th>
       <th width="100">Item</th>
-      <th width="128" align="center">Model</th>
+      <th width="128">Model</th>
       <th width="264">Crafting Recipe</th>
       <th width="85" align="center">Dyeable?</th>
     </tr>
