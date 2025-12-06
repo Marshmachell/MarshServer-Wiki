@@ -15,7 +15,7 @@
 
 ## Gameplay
 
-* [🌔 Phantoms](gameplay/phantoms.md)
+* [🌔 Phantoms & Moon Phases](gameplay/phantoms.md)
 * [👻 Happy Ghasts](gameplay/happy-ghasts.md)
 * [🛒 Minecarts](gameplay/minecarts.md)
 * [🪽 Elytra Flying](gameplay/elytra-flying.md)
