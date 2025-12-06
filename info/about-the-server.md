@@ -56,6 +56,6 @@ Yes 😵
 
 <summary>Dev team?</summary>
 
-<table><thead><tr><th width="138">Nickname</th><th>Position</th></tr></thead><tbody><tr><td>Marshmachell</td><td>Owner / Coder</td></tr><tr><td>Falanta</td><td>Moderator / Artist</td></tr><tr><td>_trpplvn_</td><td>Contributor</td></tr></tbody></table>
+<table><thead><tr><th width="138">Nickname</th><th>Position</th></tr></thead><tbody><tr><td>Marshmachell</td><td>Owner / Coder</td></tr><tr><td>Falanta</td><td>Moderator / Artist</td></tr><tr><td>_trippi</td><td>Contributor</td></tr></tbody></table>
 
 </details>

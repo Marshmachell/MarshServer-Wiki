@@ -17,7 +17,7 @@ The history of the server began with a random game with random players along wit
 <mark style="color:$primary;">Season 0 starts 21.06.2025 and ended 22.08.2025</mark>
 {% endhint %}
 
-During the first time of the [Season 0](history.md#season-0-before-the-big-bang), the world was hosted on my home computer, which was inconvenient for both me and the players. 20.07.2025 hosting was purchased and the world was transferred to a server in Germany.
+During the first time of the [Season 0](history.md#season-0-before-the-big-bang), the world was hosted on my home computer, which was inconvenient for both me and the players. 20.07.2025 a hosting was rented and the world was transferred to a server in Germany.
 
 #### Whitelist (11):
 
