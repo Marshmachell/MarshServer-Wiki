@@ -17,6 +17,10 @@
 * [🌔 Phantoms](gameplay/page-1.md)
 * [👻 Happy Ghasts](gameplay/happy-ghasts.md)
 * [🛒 Minecarts](gameplay/minecarts.md)
+* [🪽 Elytra Flying](gameplay/elytra-flying.md)
+* [🤖 Copper Golems](gameplay/copper-golems.md)
+* [📩 Discord Chat Bridge](gameplay/discord-chat-bridge.md)
+* [🧭 Advanced Lodestone](gameplay/advanced-lodestone.md)
 
 ## Updates
 
