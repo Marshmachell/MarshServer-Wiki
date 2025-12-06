@@ -8,6 +8,7 @@
 * [Commands](info/commands.md)
 * [Crafts](info/crafts/README.md)
   * [🎩 Hats](info/crafts/hats.md)
+  * [🛒 Minecarts](info/crafts/minecarts.md)
   * [🤠 Harnesses](info/crafts/harnesses.md)
   * [🥞 Food](info/crafts/food.md)
 * [History](info/history.md)
