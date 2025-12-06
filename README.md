@@ -23,6 +23,10 @@ layout:
 
 # Home
 
+{% hint style="warning" %}
+Wikipedia is currently work in progress
+{% endhint %}
+
 ***
 
 ### Information
