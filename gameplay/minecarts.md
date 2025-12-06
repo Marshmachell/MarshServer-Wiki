@@ -1,6 +1,2 @@
----
-icon: cart-shopping
----
-
-# Minecarts
+# 🛒 Minecarts
 

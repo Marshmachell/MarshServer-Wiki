@@ -1,6 +1,2 @@
----
-icon: ghost
----
-
-# Happy Ghasts
+# 👻 Happy Ghasts
 

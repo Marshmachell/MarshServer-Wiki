@@ -1,6 +1,2 @@
----
-icon: moon
----
-
-# Phantoms
+# 🌔 Phantoms
 
