@@ -7,12 +7,12 @@ icon: window
 
 #### Chat Commands
 
-<table><thead><tr><th width="374">Aliases</th><th>Action</th></tr></thead><tbody><tr><td><code>msg</code> | <code>tell</code> | <code>w</code></td><td>Send DM message to player</td></tr></tbody></table>
+<table><thead><tr><th width="374">Aliases</th><th>Action</th></tr></thead><tbody><tr><td><mark style="color:$primary;"><code>msg</code></mark> | <mark style="color:$primary;"><code>tell</code></mark> | <mark style="color:$primary;"><code>w</code></mark></td><td>Send DM message to player</td></tr></tbody></table>
 
 ***
 
 #### Misc Commands
 
-| Aliases | Action                    |
-| ------- | ------------------------- |
-| `spit`  | Spit in direction of view |
+| Aliases                                     | Action                    |
+| ------------------------------------------- | ------------------------- |
+| <mark style="color:$primary;">`spit`</mark> | Spit in direction of view |
