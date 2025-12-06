@@ -4,8 +4,8 @@
   <thead>
     <tr>
       <th width="125">Name</th>
-      <th width="100">Item Preview</th>
-      <th width="128" align="center">Equipment Preview</th>
+      <th width="100">Item</th>
+      <th width="128" align="center">Equipment</th>
       <th width="264">Crafting Recipe</th>
     </tr>
   </thead>
