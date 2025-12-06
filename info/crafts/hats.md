@@ -11,7 +11,7 @@ description: Also on the server there are several crafts of unique hats
       <th width="100">Item</th>
       <th width="128">Model</th>
       <th width="264">Crafting Recipe</th>
-      <th width="85" align="center">🎨?</th>
+      <th width="70" align="center">🎨?</th>
     </tr>
   </thead>
   <tbody>
