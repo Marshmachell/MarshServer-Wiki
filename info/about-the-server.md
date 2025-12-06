@@ -3,7 +3,7 @@ description: >-
   MarshServer - a unique Vanilla+ server whose community consists of friends of
   friends
 icon: circle-info
-cover: ../.gitbook/assets/image_negative.png
+cover: ../.gitbook/assets/image_negative1.png
 coverY: -117.73932584269664
 ---
 
