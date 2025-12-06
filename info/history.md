@@ -19,9 +19,9 @@ The history of the server began with a random game with random players along wit
 
 During the first time of the zero season, the world was hosted on my home computer, which was inconvenient for both me and the players. 20.07.2025 hosting was purchased and the world was transferred to a server in Germany.
 
-#### Whitelist (10):
+#### Whitelist (11):
 
-<mark style="color:$primary;">Marshmachell, LazyLX, Falanta, zeinoxl, DasDiamond58, bth123, Pizdaeb4324, TwKraystall, Lays\_Pr1nglesss, Hendry69</mark>
+<mark style="color:$primary;">Marshmachell, LazyLX, Falanta, zeinoxl, \_trpplvn\_ DasDiamond58, bth123, Pizdaeb4324, TwKraystall, Lays\_Pr1nglesss, Hendry69</mark>
 
 ### Screenshots
 
@@ -33,8 +33,8 @@ During the first time of the zero season, the world was hosted on my home comput
 
 ### Season 1 \[**The dawn of time**]
 
-_Soon his story will be written.._
-
 {% hint style="info" %}
 <mark style="color:$primary;">Season 1 starts ??.12.2025 and ended ??.??.202?</mark>
 {% endhint %}
+
+_Soon it story will be written.._
