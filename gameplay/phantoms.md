@@ -1,6 +1,6 @@
-# 🌔 Phantoms
+# 🌔 Phantoms & Moon Phases
 
-Now the size of phantoms directly depends on the current phase of the moon in the world
+Now the size of phantoms directly depends on the current phase of the moon in the world. Information table:
 
 <table>
   <thead>
