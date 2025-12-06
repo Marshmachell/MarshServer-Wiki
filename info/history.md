@@ -27,43 +27,43 @@ During the first time of the [Season 0](history.md#season-0-before-the-big-bang)
 
 {% tabs %}
 {% tab title="#1" %}
-<figure><img src="../.gitbook/assets/2025-06-28_00.13.09.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/history/season0/01.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="#2" %}
-<figure><img src="../.gitbook/assets/2025-07-02_13.22.46.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/history/season0/02.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="#3" %}
-<figure><img src="../.gitbook/assets/2025-07-04_01.38.51.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/history/season0/03.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="#4" %}
-<figure><img src="../.gitbook/assets/2025-07-06_00.03.09.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/history/season0/04.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="#5" %}
-<figure><img src="../.gitbook/assets/2025-07-08_00.44.20.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/history/season0/05.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="#6" %}
-<figure><img src="../.gitbook/assets/2025-07-08_01.45.03.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/history/season0/06.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="#7" %}
-<figure><img src="../.gitbook/assets/2025-07-13_22.19.13.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/history/season0/07.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="#8" %}
-<figure><img src="../.gitbook/assets/2025-07-23_16.00.11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/history/season0/08.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="#9" %}
-<figure><img src="../.gitbook/assets/2025-07-25_00.01.56.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/history/season0/09.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="#10" %}
-<figure><img src="../.gitbook/assets/2025-07-27_15.43.24.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/history/season0/10.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
