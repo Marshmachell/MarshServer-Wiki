@@ -7,7 +7,7 @@ description: Also on the server there are several crafts of unique hats
 <table>
   <thead>
     <tr>
-      <th width="150">Name</th>
+      <th width="125">Name</th>
       <th width="100">Item Preview</th>
       <th width="128" align="center">Model Preview</th>
       <th width="264">Crafting Recipe</th>
