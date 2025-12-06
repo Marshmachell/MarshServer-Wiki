@@ -11,7 +11,7 @@ description: Also on the server there are several crafts of unique hats
       <th width="100">Item Preview</th>
       <th width="128" align="center">Model Preview</th>
       <th width="264">Crafting Recipe</th>
-      <th width="110" data-type="checkbox">Is Dyeable?</th>
+      <th width="110" data-type="checkbox" align="center">Is Dyeable?</th>
     </tr>
   </thead>
   <tbody>
