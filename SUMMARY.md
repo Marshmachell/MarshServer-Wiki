@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Home](home.md)
+* [Home](README.md)
 
 ## information <a href="#info" id="info"></a>
 
@@ -17,9 +17,7 @@
 
 * [🌔 Phantoms & Moon](gameplay/phantoms.md)
 * [👻 Ghasts & Ghastlings](gameplay/ghasts-n-ghastlings.md)
-* [🛒 Minecarts](gameplay/minecarts.md)
 * [🪽 Flight on Elytra](gameplay/flight-on-elytra.md)
-* [🤖 Copper Golems](gameplay/copper-golems.md)
 * [📩 Discord Chat Bridge](gameplay/discord-chat-bridge.md)
 * [🧭 Advanced Lodestone](gameplay/advanced-lodestone.md)
 
