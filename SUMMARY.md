@@ -16,7 +16,7 @@
 ## Gameplay
 
 * [🌔 Phantoms & Moon](gameplay/phantoms.md)
-* [👻 Happy Ghasts](gameplay/happy-ghasts.md)
+* [👻 Ghasts & Ghastlings](gameplay/ghasts-n-ghastlings.md)
 * [🛒 Minecarts](gameplay/minecarts.md)
 * [🪽 Flight on Elytra](gameplay/flight-on-elytra.md)
 * [🤖 Copper Golems](gameplay/copper-golems.md)
