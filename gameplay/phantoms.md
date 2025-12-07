@@ -7,10 +7,10 @@ Now the size of phantoms directly depends on the current phase of the moon in th
     <tr>
       <th width="125">Phase</th>
       <th width="128">Preview</th>
-      <th width="135">Size multiplier</th>
+      <th width="130">Size multiplier</th>
       <th width="125">Phase</th>
       <th width="128">Preview</th>
-      <th width="135">Size multiplier</th>
+      <th width="130">Size multiplier</th>
     </tr>
   </thead>
   <tbody>
