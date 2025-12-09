@@ -1,7 +1,7 @@
 ---
 icon: sparkle
 cover: .gitbook/assets/home/cover (1).png
-coverY: 0
+coverY: -230.1651376146789
 layout:
   width: default
   cover:
