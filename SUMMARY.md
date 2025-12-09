@@ -18,7 +18,7 @@
 * [🌔 Phantoms & Moon](gameplay/phantoms.md)
 * [👻 Ghasts & Ghastlings](gameplay/ghasts-n-ghastlings.md)
 * [🪽 Flight on Elytra](gameplay/flight-on-elytra.md)
-* [📩 Discord Chat Bridge](gameplay/discord-chat-bridge.md)
+* [📩 Discord Chat Bridge/](gameplay/discord-chat-bridge.md)
 * [🧭 Advanced Lodestone](gameplay/advanced-lodestone.md)
 
 ## Updates
