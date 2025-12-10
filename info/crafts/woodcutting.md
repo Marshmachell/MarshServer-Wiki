@@ -6,4 +6,4 @@ description: >-
 
 # 🪵 Woodcutting
 
-<figure><img src="../../.gitbook/assets/woodcutting_recipes.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/crafts/woodcutting/woodcutting_recipes.gif" alt=""><figcaption></figcaption></figure>
