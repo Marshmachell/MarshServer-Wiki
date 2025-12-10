@@ -11,6 +11,7 @@
   * [🛒 Minecarts](info/crafts/minecarts.md)
   * [🤠 Harnesses](info/crafts/harnesses.md)
   * [🥞 Food](info/crafts/food.md)
+  * [🪵 Woodcutting](info/crafts/woodcutting.md)
 * [History](info/history.md)
 
 ## Gameplay
