@@ -59,3 +59,11 @@ Yes 😵
 <table><thead><tr><th width="138">Nickname</th><th>Position</th></tr></thead><tbody><tr><td>Marshmachell</td><td>Owner / Coder</td></tr><tr><td>Falanta</td><td>Moderator / Artist</td></tr><tr><td>_trippi</td><td>Contributor</td></tr></tbody></table>
 
 </details>
+
+<details>
+
+<summary>Donations?</summary>
+
+<table><thead><tr><th width="186">Platform</th><th>URL</th></tr></thead><tbody><tr><td>DonationAlerts</td><td><a href="https://www.donationalerts.com/r/marshmachell">https://www.donationalerts.com/r/marshmachell</a></td></tr><tr><td>YooMoney</td><td><a href="https://yoomoney.ru/quickpay/fundraise/button?billNumber=1EJQ0119GMQ.251212&#x26;">https://yoomoney.ru/quickpay/fundraise/button?billNumber=1EJQ0119GMQ.251212&#x26;</a></td></tr></tbody></table>
+
+</details>
